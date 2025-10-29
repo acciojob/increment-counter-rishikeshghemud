@@ -1,7 +1,7 @@
 //your JS code here. If required.
 
 const counter = document.querySelector('#counter');
-const incrementer = document.querySelector("#increment");
+const incrementer = document.querySelector("#incrementBtn");
 
 counter.innerText=0;
 
